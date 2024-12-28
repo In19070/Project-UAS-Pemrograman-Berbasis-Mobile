@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Latest K-Pop News</string>
+
+    <!-- News Titles -->
+    <string name="news_title_babymonster">Babymonster Puncaki Tangga Lagu iTunes dengan Album Terbaru Drip</string>
+    <string name="news_link_babymonster">https://www.liputan6.com/citizen6/read/5769628/babymonster-puncaki-tangga-lagu-itunes-dengan-album-terbaru-drip</string>
+
+    <string name="news_title_bts">BTS Releases New Album</string>
+    <string name="news_link_bts">https://www.detik.com/pop/korean-wave/d-7606160/jin-bts-buka-perilisan-album-happy-dengan-single-ill-be-there</string>
+
+    <string name="news_title_seventeen">10 Konser K-Pop Paling Cuan 2024 Versi Billboard</string>
+    <string name="news_link_seventeen">https://www.detik.com/pop/korean-wave/d-7694596/10-konser-k-pop-paling-cuan-2024-versi-billboard</string>
+
+    <string name="news_title_straykids">Stray Kids Umumkan Proyek Baru KING GIANT</string>
+    <string name="news_link_straykids">https://www.liputan6.com/regional/read/5715110/stray-kids-umumkan-proyek-baru-king-giant</string>
+
+    <!-- Group Names -->
+    <string name="group_name_treasure">Treasure</string>
+    <string name="group_name_straykids">Stray Kids</string>
+    <string name="group_name_fromis_9">Fromis_9</string>
+    <string name="group_name_seventeen">Seventeen</string>
+    <string name="group_name_lesserafim">Le Sserafim</string>
+    <string name="group_name_enhypen">Enhypen</string>
+    <string name="group_name_babymonster">Baby Monster</string>
+    <string name="group_name_bts">BTS</string>
+    <string name="group_name_txt">TXT</string>
+    <string name="group_name_nctdream">NCT Dream</string>
+    <string name="group_name_aespa">Aespa</string>
+    <string name="group_name_ive">Ive</string>
+    <string name="group_name_ikon">Ikon</string>
+    <string name="group_name_redvelvet">Red Velvet</string>
+    <string name="group_name_blackpink">Blackpink</string>
+    <string name="group_name_boynextdoor">Boynextdoor</string>
+    <string name="group_name_twice">Twice</string>
+</resources>
